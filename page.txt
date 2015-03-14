@@ -1,0 +1,2099 @@
+
+<!--all start-->
+<div class="all">
+<!--head start-->
+<div id="head" class="crearfix">
+<h1>安心・安全な不動産取引をサポートする総合情報サイト〜物件選びからトラブル対応まで【不動産ジャパン】</h1>
+<p class="font_size"><img src="/images/menu/size.gif" alt="文字サイズ" width="72" height="19"> <a href="#" onclick="document.body.style.fontSize='75%'"><img src="/images/menu/s.jpg" alt="小" width="24" height="24"></a> <a href="#" onclick="document.body.style.fontSize='81.25%'"><img src="/images/menu/m.jpg" alt="中" width="24" height="24"></a> <a href="#" onclick="document.body.style.fontSize='100%'"><img src="/images/menu/l.jpg" alt="大" width="24" height="24"></a></p>
+<!--サブナビ-->
+<div class="subu_manu">
+<h2><a href="http://www.fudousan.or.jp/"><img src="/images/menu/rogo_01.gif" alt="不動産ジャパン" width="221" height="45"></a></h2>
+<ul>
+<li class="no_line"><a href="/others/aboutus.html">不動産ジャパンについて</a></li>
+<li><a href="/others/sitemap.html">サイトマップ</a></li>
+<li><a href="/inquiry/index.html">物件情報以外のお問合せ</a></li>
+<li><a href="http://www.kindaika.jp" target="_blank">運営：公益財団法人不動産流通近代化センター</a></li>
+<li><a href="/association/index.html">参加団体</a></li>
+</ul>
+</div>
+<!--サブナビ　ここまで-->
+<!--メインナビ-->
+<ul id="pulldown_menu">
+<li id="con1"><a href="#"><span>不動産物件検索・不動産会社情報</span></a>
+<ul>
+<li id="con1_1"><a href="/top/buy.html#buy"><span>不動産を探す【買う】</span></a></li>
+<li id="con1_2"><a href="/top/rent.html#rent"><span>不動産を探す【借りる】</span></a></li>
+<li id="con1_3"><a href="/search/kaisya/index.html"><span>不動産会社検索サービス</span></a></li>
+<li id="con1_4"><a href="/report/index.html"><span>街の不動産会社レポート</span></a></li>
+<li id="con1_5"><a href="/association/index.html"><span>業界団体を調べる</span></a></li>
+<li id="con1_6"><a href="/gyoseiinfo/index.html"><span>行政処分情報</span></a></li>
+</ul>
+</li>
+<li id="con01"><a href="/search/satei/sale/index.html"><span>わが家を売る</span></a></li>
+<li id="con2"><a href="#"><span>住まい探しのお役立ち情報</span></a>
+<ul>
+<li id="con2_1"><a href="/jyukankyo/index.html"><span>住環境を調べる</span></a></li>
+<li id="con2_2"><a href="/jyukankyo/jyosei/index.html"><span>住宅関連助成など</span></a></li>
+<li id="con2_3"><a href="/jyukankyo/child/index.html"><span>子育て支援サービス</span></a></li>
+<li id="con2_4"><a href="/jyukankyo/bosai/index.html"><span>防災関連情報</span></a></li>
+<li id="con2_5"><a href="/jyukankyo/bohan/index.html"><span>防犯関連情報</span></a></li>
+<li id="con2_6"><a href="/jyukankyo/jichitai/index.html"><span>各自治体の情報</span></a></li>
+<li id="con2_7"><a href="/trend/index.html"><span>相場・取引動向</span></a></li>
+</ul>
+</li>
+<li id="con3"><a href="#"><span>住まい探し講座</span></a>
+<ul>
+<li id="con3_1"><a href="/kiso/buy/index.html"><span>基礎知識【買う】</span></a></li>
+<li id="con3_2"><a href="/kiso/rent/index.html"><span>基礎知識【借りる】</span></a></li>
+<li id="con3_3"><a href="/kiso/sale/index.html"><span>基礎知識【売る】</span></a></li>
+<li id="con3_4"><a href="/kiso/lease/index.html"><span>基礎知識【貸す】</span></a></li>
+<li id="con3_7"><a href="/kiso/buy/index.html#reform"><span>基礎知識【リフォーム】</span></a></li>
+<li id="con3_5"><a href="/trouble/index.html"><span>住まいのトラブル相談室</span></a></li>
+<li id="con3_6"><a href="/tools/index.html"><span>不動産便利ツール</span></a></li>
+</ul>
+</li>
+<li id="con4"><a href="/topics/index.html"><span>不動産トピックス</span></a></li>
+<li id="con5"><a href="http://www.fudousan.or.jp/"><span>トップ</span></a></li>
+<li></li>
+</ul>
+<!--メインナビ　ここまで-->
+<!--tabナビ-->
+<div id="tab_nav">
+<ul id="tab_menu">
+<li id="cot1"><a href="/top/buy.html"><span>買うトップ</span></a></li>
+<li id="cot2"><a href="/top/rent.html"><span>借りるトップ</span></a></li>
+<li id="cot3"><a href="/top/sale.html"><span>売るトップ</span></a></li>
+<li id="cot4"><a href="/top/lease.html"><span>貸すトップ</span></a></li>
+<li id="cot5"><a href="#"><span>マイリスト</span></a>
+<ul>
+<li id="cot5_1"><a href="/system/?act=v&amp;type=19"><span>マイリスト：買う</span></a></li>
+<li id="cot5_2"><a href="/system/?act=v&amp;type=39"><span>マイリスト：借りる</span></a></li>
+</ul>
+</li>
+<li id="cot6"><a href="/check/index.html"><span>不動産力チェック</span></a></li>
+<li id="cot7"><a href="/keywords/index.html"><span>話題の不動産キーワード</span></a> </li>
+</ul>
+</div>
+<!--tabナビ　ここまで-->
+<!--
+<form action="http://www.fudousan.or.jp/retrieval.html" id="cse-search-box">
+<div class="menu-goo">
+<input type="hidden" name="cx" value="015397056587839664523:0bbaf0oskng" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" size="25" class="sa-waku" />
+<input type="submit" name="sa" value="検索" />
+</div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+</div>
+-->
+<!--head end-->
+</div>
+<!--all end-->
+
+		<!--all_cont start-->
+		<div class="all_cont">
+			<!--コンテンツstart-->
+			<div id="cont">
+				<!-- 動的コンテンツ -->
+				<p id="pankuzu">
+<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/" itemprop="url"><nobr><span itemprop="title">トップ</span></nobr></a>
+</span>＞<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.fudousan.or.jp/top/rent.html" itemprop="url"><nobr><span itemprop="title">【借りる】トップ</span></nobr></a>
+</span>＞<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="./?act=m&amp;type=31" itemprop="url"><nobr><span itemprop="title">不動産物件検索【借りる】 ： マンション・アパート </span></nobr></a>
+</span>＞<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="./?act=f&amp;type=31&amp;pref=13&amp;stype=l" itemprop="url"><nobr><span itemprop="title">エリア検索（東京都）</span></nobr></a>
+</span>＞<span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<nobr><span itemprop="title">物件一覧</span></nobr>
+</span>
+</p>
+<h3>不動産物件検索【借りる】 ： マンション・アパート </h3>
+			<!--メニュー選択 start-->
+			<table class="menu_selection" summary="メニュー選択">
+				<tbody><tr>
+					<td>
+						<ul>
+							<!--
+							<li><a href="./?act=m&type=31">アパ－ト・マンション</a></li>
+							<li><a href="./?act=m&type=32">一戸建て・その他て</a></li>
+							<li><a href="./?act=m&type=33">事業用物件</a>（事務所・店舗など）</li>
+							-->
+							<li><a href="./?act=m&amp;type=31">マンション・アパート</a></li>
+							<li><a href="./?act=m&amp;type=32">一戸建て・その他</a></li>
+							<li><a href="./?act=m&amp;type=33">事業用物件</a>（事務所・店舗など）</li>
+						</ul>
+					</td>
+				</tr>
+			</tbody></table>
+			<!--メニュー選択 end-->
+
+<h4 class="title_home_all">物件一覧（画像あり）</h4>
+<!--設定済み検索条件 start-->
+<table class="result_all" summary="設定済み検索条件">
+	<tbody><tr>
+		<th colspan="2" class="midashi"><p>設定済み検索条件</p></th>
+	</tr>
+	<tr>
+		<th><p>基本検索条件</p></th>
+		<td>
+			<ul>
+			<li><nobr><em>・エリア検索(東京都)：</em>中野区</nobr></li><li>
+</li><li><nobr><em>・賃料：</em>下限なし〜上限なし</nobr></li><li>
+</li><li><nobr><em>・専有面積：</em>下限なし〜上限なし</nobr></li><li>
+			</li></ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>こだわり検索条件</p></th>
+		<td>
+			<ul>
+			なし
+			</ul>
+		</td>
+	</tr>
+</tbody></table>
+<!--ボタン start-->
+<div class="wd880">
+	<ul>
+		<li>
+			<!--##saveMyList##-->
+			<a href="./?act=v&amp;type=39&amp;sact=slistadd&amp;param=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13114%26rl%3Dl%26rh%3Dh%26asl%3Dl%26ash%3Dh"><img src="/search/images/all_my.jpg" alt="検索条件をマイリストに保存" width="211" height="46" border="0"></a>
+			<!-- -->
+		</li>
+		<li>
+			<a href="#a2"><img src="/search/images/all_change.jpg" alt="検索条件変更" width="142" height="46" border="0"></a>
+		</li>
+		<!--
+		<li>
+			<a href="javascript:document.forms['frmChange'].submit();"><img src="/search/images/all_fudousan.jpg" alt="物件種別変更" width="142" height="46" border="0" /></a>
+		</li>
+		<!-- -->
+	</ul>
+</div>
+<!--ボタン end-->
+
+<script type="text/javascript"><!--
+function resize(n) {
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.n.value = n;
+	frm.p.value = 1;
+	frm.submit();
+}
+function page(p) {
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.p.value = p;
+	frm.submit();
+}
+function viewmode(v){
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	if(v){
+		frm.v.value = "on";
+	} else {
+		frm.v.value = "off";
+	}
+	frm.submit();
+}
+function sort(s){
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.p.value = 1;
+	frm.s.value = s;
+	frm.submit();
+}
+// --></script>
+<form name="frmOrgCond" action="./">
+	<input type="hidden" name="act" value="l">
+<input type="hidden" name="type" value="31">
+<input type="hidden" name="pref" value="13">
+<input type="hidden" name="stype" value="l">
+<input type="hidden" name="city[]" value="13114">
+<input type="hidden" name="rl" value="l">
+<input type="hidden" name="rh" value="h">
+<input type="hidden" name="asl" value="l">
+<input type="hidden" name="ash" value="h">
+<input type="hidden" name="n" value="20">
+<input type="hidden" name="p" value="1">
+<input type="hidden" name="v" value="on">
+<input type="hidden" name="s" value="">
+</form>
+<!--検索表示結果 start-->
+<table class="result_out_no" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><p><img src="/search/images/all_bg1.gif" width="880" height="21"></p></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="result_no">
+				<tbody><tr>
+					<th><p><span class="imp">検索結果:</span>　4138件中　1〜20件を表示</p></th>
+					<td class="text_right">
+						<p>
+＜前へ&nbsp;&nbsp;1&nbsp;&nbsp;<a href="javascript:page(2);">2</a>&nbsp;&nbsp;<a href="javascript:page(3);">3</a>&nbsp;&nbsp;<a href="javascript:page(4);">4</a>&nbsp;&nbsp;<a href="javascript:page(5);">5</a>&nbsp;&nbsp;<a href="javascript:page(6);">6</a>&nbsp;&nbsp;<a href="javascript:page(7);">7</a>&nbsp;&nbsp;<a href="javascript:page(8);">8</a>&nbsp;&nbsp;<a href="javascript:page(9);">9</a>&nbsp;&nbsp;<a href="javascript:page(10);">10</a>&nbsp;&nbsp;<a href="javascript:page(2);">次へ＞</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<span class="imp">表示件数:</span>&nbsp;&nbsp;
+							<select name="select" size="1" onchange="resize(this.options[this.selectedIndex].value)">
+								<option value="20" selected="">20件表示</option>
+								<option value="50" ##select_50##="">50件表示</option>
+								<option value="100" ##select_100##="">100件表示</option>
+							</select>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span class="imp">画像:</span>&nbsp;&nbsp;
+あり / <a href="javascript:viewmode(false)">なし</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<p>
+							<span class="imp">並び替え:</span>&nbsp;&nbsp;
+<a href="javascript:sort('n');">新着順</a>&nbsp;&nbsp;&nbsp;<a href="javascript:sort('s');">所在地</a>&nbsp;&nbsp;&nbsp;賃料（<a href="javascript:sort('rh');">高い</a> / <a href="javascript:sort('rl');">安い</a>）&nbsp;&nbsp;&nbsp;専有面積（<a href="javascript:sort('auh');">広い</a> / <a href="javascript:sort('aul');">狭い</a>）&nbsp;&nbsp;&nbsp;築年月（<a href="javascript:sort('cn');">新しい</a> / <a href="javascript:sort('co');">古い</a>）
+						</p>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td><p><img src="/search/images/all_bg3.gif" width="880" height="21"></p></td>
+	</tr>
+</tbody></table>
+<!--検索表示結果 end-->
+
+<div class="wd880_mikata"><p><a href="/search/mikata/buy/06.html" target="_blank">物件情報の見方 &gt;&gt; </a></p></div>
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03134482&amp;org=ZN">
+					<img src="./photo/zennet/03134482478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03134482&amp;org=ZN">
+					<img src="./photo/zennet/03134482479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03134482&amp;org=ZN">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万1,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区南台２丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>京王電鉄京王線 「幡ヶ谷」駅 徒歩10分<br>東京地下鉄方南支線 「中野新橋」駅 徒歩15分<br>京王電鉄京王線 「笹塚」駅 徒歩15分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>7.5ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1958年1月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04048310&amp;org=ZN">
+					<img src="./photo/zennet/04048310478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04048310&amp;org=ZN">
+					<img src="./photo/zennet/04048310479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04048310&amp;org=ZN">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万1,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区南台２丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>京王電鉄京王線 「幡ヶ谷」駅 徒歩11分<br>京王電鉄京王線 「笹塚」駅 徒歩15分<br>山手線 「代々木」駅 徒歩38分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>7.5ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1958年3月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00549955&amp;org=ZT">
+					<img src="./photo/zentaku/00549955478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00549955&amp;org=ZT">
+					<img src="./photo/zentaku/00549955479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00549955&amp;org=ZT">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区野方６丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「野方」駅 徒歩3分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>2ヶ月 4万4,000円・1ヶ月 2万2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>1K</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>16.55ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1980年12月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00325808&amp;org=ZT">
+					<img src="./photo/zentaku/00325808478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00325808&amp;org=ZT">
+					<img src="./photo/zentaku/00325808479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00325808&amp;org=ZT">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区江原町３丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武池袋・豊島線 「東長崎」駅 徒歩8分<br>東京都大江戸線 「新江古田」駅 徒歩8分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・礼金なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>13.22ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1976年4月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03672532&amp;org=ZN">
+					<img src="./photo/zennet/03672532478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03672532&amp;org=ZN">
+					<img src="./search/images/noimage.gif" alt="-" style="width:100px;height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03672532&amp;org=ZN">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区弥生町１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>東京都大江戸線 「西新宿五丁目」駅 徒歩7分<br>東京地下鉄丸ノ内線 「中野坂上」駅 徒歩10分<br>東京地下鉄方南支線 「中野新橋」駅 徒歩8分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月 2万3,000円・1ヶ月 2万3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>マンション</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>7.4ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1998年4月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03168120&amp;org=ZN">
+					<img src="./photo/zennet/03168120478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03168120&amp;org=ZN">
+					<img src="./photo/zennet/03168120479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03168120&amp;org=ZN">詳細情報はこちらです</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万4,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区南台２丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>京王電鉄京王線 「幡ヶ谷」駅 徒歩10分<br>東京地下鉄方南支線 「中野新橋」駅 徒歩15分<br>京王電鉄京王線 「笹塚」駅 徒歩15分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>7.5ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1958年1月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=01700383&amp;org=ZT">
+					<img src="./photo/zentaku/01700383478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=01700383&amp;org=ZT">
+					<img src="./photo/zentaku/01700383479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=01700383&amp;org=ZT">斉藤荘&nbsp;&nbsp;&nbsp;&nbsp;ち</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区上鷺宮４丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武池袋・豊島線 「富士見台」駅 徒歩2分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月 2万5,000円・1ヶ月 2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>11.15ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1973年2月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03227739&amp;org=ZN">
+					<img src="./photo/zennet/03227739478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03227739&amp;org=ZN">
+					<img src="./photo/zennet/03227739479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03227739&amp;org=ZN">詳細情報はこちらです</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区大和町１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>中央本線 「高円寺」駅 徒歩10分<br>西武鉄道新宿線 「野方」駅 徒歩12分<br>西武鉄道新宿線 「都立家政」駅 徒歩15分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:1,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>10.59ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1975年1月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313138&amp;org=ZT">
+					<img src="./photo/zentaku/03313138478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313138&amp;org=ZT">
+					<img src="./photo/zentaku/03313138479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313138&amp;org=ZT">森良荘　００６１　－&nbsp;&nbsp;&nbsp;&nbsp;１１</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区新井２丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>中央本線 「中野」駅 徒歩9分<br>西武鉄道新宿線 「沼袋」駅 徒歩11分<br>総武・中央緩行線 「中野」駅 徒歩9分<br>西武新宿線「沼袋駅」徒歩１１分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>15ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1964年10月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313397&amp;org=ZT">
+					<img src="./photo/zentaku/03313397478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313397&amp;org=ZT">
+					<img src="./photo/zentaku/03313397479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03313397&amp;org=ZT">詳細情報はこちらです</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区野方５丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「野方」駅 徒歩3分<br>西武鉄道新宿線 「都立家政」駅 徒歩12分<br>中央本線 「高円寺」駅 徒歩19分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:850円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>13ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1968年4月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<div class="page_top"><p><a href="#">▲ ページトップへ</a></p></div>
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03401861&amp;org=ZN">
+					<img src="./photo/zennet/03401861478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03401861&amp;org=ZN">
+					<img src="./photo/zennet/03401861479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03401861&amp;org=ZN">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区南台３丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>東京地下鉄方南支線 「中野富士見町」駅 徒歩8分<br>東京地下鉄方南支線 「方南町」駅 徒歩14分<br>京王電鉄京王線 「幡ヶ谷」駅 徒歩20分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>敷金なし・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>10ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1970年6月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03919052&amp;org=ZN">
+					<img src="./photo/zennet/03919052478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03919052&amp;org=ZN">
+					<img src="./photo/zennet/03919052479.gif" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03919052&amp;org=ZN">詳細情報はこちらです</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区新井３丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>中央本線 「中野」駅 徒歩12分<br>西武鉄道新宿線 「沼袋」駅 徒歩7分<br>東京地下鉄東西線 「中野」駅 徒歩12分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>1K</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>12.5ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1965年1月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900071&amp;org=ZN">
+					<img src="./photo/zennet/03900071478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900071&amp;org=ZN">
+					<img src="./photo/zennet/03900071479.gif" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900071&amp;org=ZN">スプラウト中野白鷺&nbsp;&nbsp;&nbsp;&nbsp;B-1</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万5,500円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区白鷺１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「鷺ノ宮」駅 徒歩10分<br>中央本線 「阿佐ヶ谷」駅 徒歩19分<br>中央本線 「高円寺」駅 徒歩23分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:1万2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>敷金なし・礼金なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>4ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1999年6月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309173&amp;org=ZT">
+					<img src="./photo/zentaku/00309173478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309173&amp;org=ZT">
+					<img src="./photo/zentaku/00309173479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309173&amp;org=ZT">赤羽根荘&nbsp;&nbsp;&nbsp;&nbsp;３</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万6,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区上高田５丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「新井薬師前」駅 徒歩6分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>9.72ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1964年7月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900072&amp;org=ZN">
+					<img src="./photo/zennet/03900072478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900072&amp;org=ZN">
+					<img src="./photo/zennet/03900072479.gif" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=03900072&amp;org=ZN">スプラウト中野白鷺&nbsp;&nbsp;&nbsp;&nbsp;B-3</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万6,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区白鷺１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「鷺ノ宮」駅 徒歩10分<br>中央本線 「阿佐ヶ谷」駅 徒歩19分<br>中央本線 「高円寺」駅 徒歩23分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:なし<br>共益費:1万2,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>敷金なし・礼金なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>4ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1999年6月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04001888&amp;org=ZT">
+					<img src="./photo/zentaku/04001888478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04001888&amp;org=ZT">
+					<img src="./photo/zentaku/04001888479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=04001888&amp;org=ZT">鶴岡荘&nbsp;&nbsp;&nbsp;&nbsp;Ｆ</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万6,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区上高田１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>総武・中央緩行線 「東中野」駅 徒歩11分<br>中央本線 「中野」駅 徒歩13分<br>西武鉄道新宿線 「新井薬師前」駅 徒歩12分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>8.4ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1956年10月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00258548&amp;org=ZT">
+					<img src="./photo/zentaku/00258548478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00258548&amp;org=ZT">
+					<img src="./search/images/noimage.gif" alt="-" style="width:100px;height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00258548&amp;org=ZT">メゾン白鷺&nbsp;&nbsp;&nbsp;&nbsp;13</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万7,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区白鷺２丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「鷺ノ宮」駅 徒歩8分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月 2万7,000円・1ヶ月 2万7,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>1K</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>12.4ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1975年3月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309253&amp;org=ZT">
+					<img src="./photo/zentaku/00309253478.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309253&amp;org=ZT">
+					<img src="./photo/zentaku/00309253479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00309253&amp;org=ZT">詳細情報はこちらです</a><img src="/search/images/new.gif" alt="NEW" width="53" height="19"></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万7,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区野方１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「野方」駅 徒歩14分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>9.91ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>無</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1980年3月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00432257&amp;org=ZN">
+					<img src="./photo/zennet/00432257478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00432257&amp;org=ZN">
+					<img src="./photo/zennet/00432257479.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00432257&amp;org=ZN">ササキ荘&nbsp;&nbsp;&nbsp;&nbsp;ニ</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万7,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区沼袋１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「沼袋」駅 徒歩3分<br>西武鉄道新宿線 「新井薬師前」駅 徒歩10分<br>中央本線 「中野」駅 徒歩21分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:1,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>敷金なし・礼金なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>ワンルーム</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>13.5ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1967年3月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<!--結果 start-->
+<table class="result_all_part">
+	<tbody><tr>
+<!---->
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00507593&amp;org=ZN">
+					<img src="./photo/zennet/00507593478.jpg" alt="-" style="height:100px;">
+				</a>
+			</p>
+		</td>
+		<td rowspan="10" class="pic_zoon">
+			<p>
+				<a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00507593&amp;org=ZN">
+					<img src="./photo/zennet/00507593479.jpg" alt="-" style="width:100px;">
+				</a>
+			</p>
+		</td>
+<!-- -->
+		<th colspan="4" class="text_midashi">
+			<h5><a href="./?act=d&amp;type=31&amp;pref=13&amp;stype=l&amp;city[]=13114&amp;rl=l&amp;rh=h&amp;asl=l&amp;ash=h&amp;n=20&amp;p=1&amp;v=on&amp;s=&amp;bid=00507593&amp;org=ZN">詳細情報はこちらです</a></h5>
+		</th>
+	</tr>
+	<tr>
+		<th class="imp"><p>賃料</p></th>
+		<td colspan="3" class="imp"><p>2万7,000円</p></td>
+	</tr>
+	<tr>
+		<th><p>所在地</p></th>
+		<td colspan="3"><p>東京都中野区沼袋１丁目</p></td>
+	</tr>
+	<tr>
+		<th><p>交通</p></th>
+		<td colspan="3"><p>西武鉄道新宿線 「新井薬師前」駅 徒歩6分<br>総武・中央緩行線 「中野」駅 徒歩15分<br>西武鉄道新宿線 「沼袋」駅 徒歩10分</p></td>
+	</tr>
+	<tr>
+		<th><p>管理費等</p></th>
+		<td colspan="3"><p>管理費:3,000円<br>共益費:なし</p></td>
+	</tr>
+	<tr>
+		<th><p>敷金・礼金</p></th>
+		<td colspan="3"><p>1ヶ月・1ヶ月</p></td>
+	</tr>
+	<tr>
+		<th><p>敷引または解約引</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+		<th><p>保証金・権利金</p></th>
+		<td class="text_zoon2"><p>なし・-</p></td>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td class="text_zoon2"><p>アパート</p></td>
+		<th><p>間取り</p></th>
+		<td class="text_zoon2"><p>1K</p></td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td class="text_zoon2"><p>14ｍ<sup>2</sup></p></td>
+		<th><p>駐車場</p></th>
+		<td class="text_zoon2"><p>-</p></td>
+	</tr>
+	<tr>
+		<th><p>築年月</p></th>
+		<td colspan="3"><p>1959年12月</p></td>
+	</tr>
+</tbody></table>
+<!--結果 end-->
+
+<div class="page_top"><p><a href="#">▲ ページトップへ</a></p></div>
+<script type="text/javascript"><!--
+function resize(n) {
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.n.value = n;
+	frm.p.value = 1;
+	frm.submit();
+}
+function page(p) {
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.p.value = p;
+	frm.submit();
+}
+function viewmode(v){
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	if(v){
+		frm.v.value = "on";
+	} else {
+		frm.v.value = "off";
+	}
+	frm.submit();
+}
+function sort(s){
+//	var frm = document.forms['frmOrgCond'];
+	var frm	= document.forms[1];
+	frm.p.value = 1;
+	frm.s.value = s;
+	frm.submit();
+}
+// --></script>
+<form name="frmOrgCond" action="./">
+	<input type="hidden" name="act" value="l">
+<input type="hidden" name="type" value="31">
+<input type="hidden" name="pref" value="13">
+<input type="hidden" name="stype" value="l">
+<input type="hidden" name="city[]" value="13114">
+<input type="hidden" name="rl" value="l">
+<input type="hidden" name="rh" value="h">
+<input type="hidden" name="asl" value="l">
+<input type="hidden" name="ash" value="h">
+<input type="hidden" name="n" value="20">
+<input type="hidden" name="p" value="1">
+<input type="hidden" name="v" value="on">
+<input type="hidden" name="s" value="">
+</form>
+<!--検索表示結果 start-->
+<table class="result_out_no" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><p><img src="/search/images/all_bg1.gif" width="880" height="21"></p></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="result_no">
+				<tbody><tr>
+					<th><p><span class="imp">検索結果:</span>　4138件中　1〜20件を表示</p></th>
+					<td class="text_right">
+						<p>
+＜前へ&nbsp;&nbsp;1&nbsp;&nbsp;<a href="javascript:page(2);">2</a>&nbsp;&nbsp;<a href="javascript:page(3);">3</a>&nbsp;&nbsp;<a href="javascript:page(4);">4</a>&nbsp;&nbsp;<a href="javascript:page(5);">5</a>&nbsp;&nbsp;<a href="javascript:page(6);">6</a>&nbsp;&nbsp;<a href="javascript:page(7);">7</a>&nbsp;&nbsp;<a href="javascript:page(8);">8</a>&nbsp;&nbsp;<a href="javascript:page(9);">9</a>&nbsp;&nbsp;<a href="javascript:page(10);">10</a>&nbsp;&nbsp;<a href="javascript:page(2);">次へ＞</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<span class="imp">表示件数:</span>&nbsp;&nbsp;
+							<select name="select" size="1" onchange="resize(this.options[this.selectedIndex].value)">
+								<option value="20" selected="">20件表示</option>
+								<option value="50" ##select_50##="">50件表示</option>
+								<option value="100" ##select_100##="">100件表示</option>
+							</select>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span class="imp">画像:</span>&nbsp;&nbsp;
+あり / <a href="javascript:viewmode(false)">なし</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<p>
+							<span class="imp">並び替え:</span>&nbsp;&nbsp;
+<a href="javascript:sort('n');">新着順</a>&nbsp;&nbsp;&nbsp;<a href="javascript:sort('s');">所在地</a>&nbsp;&nbsp;&nbsp;賃料（<a href="javascript:sort('rh');">高い</a> / <a href="javascript:sort('rl');">安い</a>）&nbsp;&nbsp;&nbsp;専有面積（<a href="javascript:sort('auh');">広い</a> / <a href="javascript:sort('aul');">狭い</a>）&nbsp;&nbsp;&nbsp;築年月（<a href="javascript:sort('cn');">新しい</a> / <a href="javascript:sort('co');">古い</a>）
+						</p>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td><p><img src="/search/images/all_bg3.gif" width="880" height="21"></p></td>
+	</tr>
+</tbody></table>
+<!--検索表示結果 end-->
+
+&nbsp;
+<!--設定済み検索条件 start-->
+<table class="result_all" summary="設定済み検索条件">
+	<tbody><tr>
+		<th colspan="2" class="midashi"><p>設定済み検索条件</p></th>
+	</tr>
+	<tr>
+		<th><p>基本検索条件</p></th>
+		<td>
+			<ul>
+			<li><nobr><em>・エリア検索(東京都)：</em>中野区</nobr></li><li>
+</li><li><nobr><em>・賃料：</em>下限なし〜上限なし</nobr></li><li>
+</li><li><nobr><em>・専有面積：</em>下限なし〜上限なし</nobr></li><li>
+			</li></ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>こだわり検索条件</p></th>
+		<td>
+			<ul>
+			なし
+			</ul>
+		</td>
+	</tr>
+</tbody></table>
+<!--ボタン start-->
+<div class="wd880">
+	<ul>
+		<li>
+			<!--##saveMyList##-->
+			<a href="./?act=v&amp;type=39&amp;sact=slistadd&amp;param=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13114%26rl%3Dl%26rh%3Dh%26asl%3Dl%26ash%3Dh"><img src="/search/images/all_my.jpg" alt="検索条件をマイリストに保存" width="211" height="46" border="0"></a>
+			<!-- -->
+		</li>
+		<li>
+			<a href="#a2"><img src="/search/images/all_change.jpg" alt="検索条件変更" width="142" height="46" border="0"></a>
+		</li>
+		<!--
+		<li>
+			<a href="javascript:document.forms['frmChange'].submit();"><img src="/search/images/all_fudousan.jpg" alt="物件種別変更" width="142" height="46" border="0" /></a>
+		</li>
+		<!-- -->
+	</ul>
+</div>
+<!--ボタン end-->
+
+<script type="text/javascript"><!--
+  function checkForm(frm) {
+    var msgs = new Array();
+    checkCondition(frm,msgs);
+    if(msgs.length > 0) {
+      var str = '入力条件を確認してください。';
+      for (i = 0; i < msgs.length; i++) {
+        str += '\n  ・' + msgs[i];
+      }
+      alert(str);
+      return false;
+    } else {
+      return true;
+    }
+  }
+// --></script>
+<a name="a2" id="a2"></a>
+<form name="frmList" action="./?act=l&amp;type=31&amp;pref=13&amp;stype=l">
+<input type="hidden" name="act" value="l">
+<input type="hidden" name="type" value="31">
+<input type="hidden" name="pref" value="13">
+<input type="hidden" name="stype" value="l">
+<input type="hidden" name="city[]" value="13114">
+<script type="text/javascript"><!--
+	function checkCondition(frm,msgs) {
+		if(parseInt(frm.rl.value) >= parseInt(frm.rh.value)) msgs.push('下限賃料よりも上限賃料を大きく設定してください');
+		if(parseFloat(frm.asl.value) >= parseFloat(frm.ash.value)) msgs.push('下限専有面積よりも上限専有面積を大きく設定してください');
+	}
+// --></script>
+<!--検索条件　start-->
+<h4 class="title_kensaku">検索条件　<span class="xx-small none">検索条件を選択してください。</span></h4>
+<table class="kensaku" summary="基本検索条件、こだわり検索条件">
+	<tbody><tr>
+		<th colspan="2" class="midashi"><p>基本検索条件</p></th>
+	</tr>
+	<tr>
+		<th><p>物件種目</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input type="checkbox" name="ta" value="1" id="ta" ##ta_1##=""><label for="ta">アパート</label></li>
+				<li><input type="checkbox" name="tm" value="1" id="tm" ##tm_1##=""><label for="tm">マンション</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>賃料</p></th>
+		<td>
+			<ul class="w_3_bl">
+				<li>
+					<select size="1" name="rl">
+						<option value="l" selected="">下限なし</option>
+						<option value="40" ##rl_40##="">4万</option>
+						<option value="45" ##rl_45##="">4.5万</option>
+						<option value="50" ##rl_50##="">5万</option>
+						<option value="55" ##rl_55##="">5.5万</option>
+						<option value="60" ##rl_60##="">6万</option>
+						<option value="65" ##rl_65##="">6.5万</option>
+						<option value="70" ##rl_70##="">7万</option>
+						<option value="75" ##rl_75##="">7.5万</option>
+						<option value="80" ##rl_80##="">8万</option>
+						<option value="85" ##rl_85##="">8.5万</option>
+						<option value="90" ##rl_90##="">9万</option>
+						<option value="95" ##rl_95##="">9.5万</option>
+						<option value="100" ##rl_100##="">10万</option>
+						<option value="105" ##rl_105##="">10.5万</option>
+						<option value="110" ##rl_110##="">11万</option>
+						<option value="115" ##rl_115##="">11.5万</option>
+						<option value="120" ##rl_120##="">12万</option>
+						<option value="125" ##rl_125##="">12.5万</option>
+						<option value="130" ##rl_130##="">13万</option>
+						<option value="135" ##rl_135##="">13.5万</option>
+						<option value="140" ##rl_140##="">14万</option>
+						<option value="145" ##rl_145##="">14.5万</option>
+						<option value="150" ##rl_150##="">15万</option>
+						<option value="155" ##rl_155##="">15.5万</option>
+						<option value="160" ##rl_160##="">16万</option>
+						<option value="165" ##rl_165##="">16.5万</option>
+						<option value="170" ##rl_170##="">17万</option>
+						<option value="175" ##rl_175##="">17.5万</option>
+						<option value="180" ##rl_180##="">18万</option>
+						<option value="185" ##rl_185##="">18.5万</option>
+						<option value="190" ##rl_190##="">19万</option>
+						<option value="195" ##rl_195##="">19.5万</option>
+						<option value="200" ##rl_200##="">20万</option>
+					</select>円以上
+				</li>
+				<li>
+					<select size="1" name="rh">
+						<option value="h" selected="">上限なし</option>
+						<option value="40" ##rh_40##="">4万</option>
+						<option value="45" ##rh_45##="">4.5万</option>
+						<option value="50" ##rh_50##="">5万</option>
+						<option value="55" ##rh_55##="">5.5万</option>
+						<option value="60" ##rh_60##="">6万</option>
+						<option value="65" ##rh_65##="">6.5万</option>
+						<option value="70" ##rh_70##="">7万</option>
+						<option value="75" ##rh_75##="">7.5万</option>
+						<option value="80" ##rh_80##="">8万</option>
+						<option value="85" ##rh_85##="">8.5万</option>
+						<option value="90" ##rh_90##="">9万</option>
+						<option value="95" ##rh_95##="">9.5万</option>
+						<option value="100" ##rh_100##="">10万</option>
+						<option value="105" ##rh_105##="">10.5万</option>
+						<option value="110" ##rh_110##="">11万</option>
+						<option value="115" ##rh_115##="">11.5万</option>
+						<option value="120" ##rh_120##="">12万</option>
+						<option value="125" ##rh_125##="">12.5万</option>
+						<option value="130" ##rh_130##="">13万</option>
+						<option value="135" ##rh_135##="">13.5万</option>
+						<option value="140" ##rh_140##="">14万</option>
+						<option value="145" ##rh_145##="">14.5万</option>
+						<option value="150" ##rh_150##="">15万</option>
+						<option value="155" ##rh_155##="">15.5万</option>
+						<option value="160" ##rh_160##="">16万</option>
+						<option value="165" ##rh_165##="">16.5万</option>
+						<option value="170" ##rh_170##="">17万</option>
+						<option value="175" ##rh_175##="">17.5万</option>
+						<option value="180" ##rh_180##="">18万</option>
+						<option value="185" ##rh_185##="">18.5万</option>
+						<option value="190" ##rh_190##="">19万</option>
+						<option value="195" ##rh_195##="">19.5万</option>
+						<option value="200" ##rh_200##="">20万</option>
+					</select>円未満
+				</li>
+			</ul>
+			<ul class="w_3_bl">
+				<li><input type="checkbox" name="rik" value="1" id="rik" ##rik_1##=""><label for="rik">管理費・共益費なし</label></li>
+				<li><input type="checkbox" name="rnr" value="1" id="rnr" ##rnr_1##=""><label for="rnr">礼金なし</label></li>
+				<li><input type="checkbox" name="rns" value="1" id="rns" ##rns_1##=""><label for="rns">敷金なし</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>専有面積</p></th>
+		<td>
+			<ul class="w_3">
+				<li>
+					<select size="1" name="asl">
+						<option value="l" selected="">下限なし</option>
+						<option value="20" ##asl_20##="">20</option>
+						<option value="40" ##asl_40##="">40</option>
+						<option value="50" ##asl_50##="">50</option>
+						<option value="60" ##asl_60##="">60</option>
+						<option value="70" ##asl_70##="">70</option>
+						<option value="80" ##asl_80##="">80</option>
+						<option value="90" ##asl_90##="">90</option>
+						<option value="100" ##asl_100##="">100</option>
+						<option value="120" ##asl_120##="">120</option>
+						<option value="150" ##asl_150##="">150</option>
+					</select>m²以上
+				</li>
+				<li>
+					<select size="1" name="ash">
+						<option value="h" selected="">上限なし</option>
+						<option value="20" ##ash_20##="">20</option>
+						<option value="40" ##ash_40##="">40</option>
+						<option value="50" ##ash_50##="">50</option>
+						<option value="60" ##ash_60##="">60</option>
+						<option value="70" ##ash_70##="">70</option>
+						<option value="80" ##ash_80##="">80</option>
+						<option value="90" ##ash_90##="">90</option>
+						<option value="100" ##ash_100##="">100</option>
+						<option value="120" ##ash_120##="">120</option>
+						<option value="150" ##ash_150##="">150</option>
+					</select>m²未満
+				</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>築年数</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input name="yc" type="radio" value="1" id="yc0" ##yc_1##=""><label for="yc0">新築</label></li>
+				<li><input name="yc" type="radio" value="3" id="yc1" ##yc_3##=""><label for="yc1">3年以内</label></li>
+				<li><input name="yc" type="radio" value="5" id="yc2" ##yc_5##=""><label for="yc2">5年以内</label></li>
+				<li><input name="yc" type="radio" value="10" id="yc3" ##yc_10##=""><label for="yc3">10年以内</label></li>
+				<li><input name="yc" type="radio" value="15" id="yc4" ##yc_15##=""><label for="yc4">15年以内</label></li>
+				<li><input name="yc" type="radio" value="-1" id="yc-1" ##yc_-1##=""><label for="yc-1">指定なし</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>最寄駅徒歩分</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input name="th" type="radio" value="5" id="th1" ##th_5##=""><label for="th1">5分以内</label></li>
+				<li><input name="th" type="radio" value="10" id="th2" ##th_10##=""><label for="th2">10分以内</label></li>
+				<li><input name="th" type="radio" value="15" id="th3" ##th_15##=""><label for="th3">15分以内</label></li>
+				<li><input name="th" type="radio" value="-1" id="th-1" ##th_-1##=""><label for="th-1">指定なし</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>間取り</p></th>
+		<td>
+			<ul class="madori">
+				<li><input type="checkbox" name="md[]" value="1" id="md1" ##md_1##=""><label for="md1">1R・1K・1DK</label></li>
+				<li><input type="checkbox" name="md[]" value="2" id="md2" ##md_2##=""><label for="md2">1LDK・2K・2DK</label></li>
+				<li><input type="checkbox" name="md[]" value="3" id="md3" ##md_3##=""><label for="md3">2LDK・3K・3DK</label></li>
+				<li><input type="checkbox" name="md[]" value="4" id="md4" ##md_4##=""><label for="md4">3LDK・4K・4DK</label></li>
+				<li><input type="checkbox" name="md[]" value="5" id="md5" ##md_5##=""><label for="md5">4LDK以上</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>画像・図面</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input type="checkbox" name="gz" value="1" id="gz" ##gz_1##=""><label for="gz">画像あり</label></li>
+				<li><input type="checkbox" name="zm" value="1" id="zm" ##zm_1##=""><label for="zm">図面あり</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th colspan="2" class="midashi"><p>こだわり検索条件</p></th>
+	</tr>
+	<tr>
+		<th><p>部屋の位置</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input type="checkbox" name="op[]" value="os" id="os" ##op_os##=""><label for="os">1階のみ</label></li>
+				<li><input type="checkbox" name="op[]" value="ts" id="ts" ##op_ts##=""><label for="ts">2階以上のみ</label></li>
+				<li><input type="checkbox" name="op[]" value="so" id="so" ##op_so##=""><label for="so">南向き</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>部屋の条件</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input type="checkbox" name="op[]" value="ac" id="ac" ##op_ac##=""><label for="ac">エアコン</label></li>
+				<li><input type="checkbox" name="op[]" value="bt" id="bt" ##op_bt##=""><label for="bt">バス・トイレ別</label></li>
+				<li><input type="checkbox" name="op[]" value="oi" id="oi" ##op_oi##=""><label for="oi">追い焚き機能あり</label></li>
+				<li><input type="checkbox" name="op[]" value="wa" id="wa" ##op_wa##=""><label for="wa">洗濯機置場あり</label></li>
+				<li><input type="checkbox" name="op[]" value="pe" id="pe" ##op_pe##=""><label for="pe">ペット可・相談</label></li>
+				<li><input type="checkbox" name="op[]" value="im" id="im" ##op_im##=""><label for="im">楽器可・相談</label></li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<th><p>設備</p></th>
+		<td>
+			<ul class="w_3">
+				<li><input type="checkbox" name="op[]" value="fl" id="fl" ##op_fl##=""><label for="fl">フローリング</label></li>
+				<li><input type="checkbox" name="op[]" value="lf" id="lf" ##op_lf##=""><label for="lf">ロフト付</label></li>
+				<li><input type="checkbox" name="op[]" value="bl" id="bl" ##op_bl##=""><label for="bl">バルコニー付</label></li>
+				<li><input type="checkbox" name="op[]" value="al" id="al" ##op_al##=""><label for="al">オートロック</label></li>
+				<li><input type="checkbox" name="op[]" value="mi" id="mi" ##op_mi##=""><label for="mi">TVモニタ付インターホン</label></li>
+				<li><input type="checkbox" name="op[]" value="in" id="in" ##op_in##=""><label for="in">インターネット可</label></li>
+				<li><input type="checkbox" name="op[]" value="ca" id="ca" ##op_ca##=""><label for="ca">CATV</label></li>
+				<li><input type="checkbox" name="op[]" value="bs" id="bs" ##op_bs##=""><label for="bs">BS</label></li>
+				<li><input type="checkbox" name="op[]" value="cs" id="cs" ##op_cs##=""><label for="cs">CS</label></li>
+				<li><input type="checkbox" name="op[]" value="el" id="el" ##op_el##=""><label for="el">エレベーター</label></li>
+				<li><input type="checkbox" name="op[]" value="cp" id="cp" ##op_cp##=""><label for="cp">駐車場あり</label></li>
+				<li><input type="checkbox" name="op[]" value="bp" id="bp" ##op_bp##=""><label for="bp">駐輪場あり</label></li>
+			</ul>
+		</td>
+	</tr>
+<!--##act_f##
+<tr>
+<td colspan="2"><p class="text_center"><a href="javascript:if(checkForm(document.forms['frmArea']))document.forms['frmArea'].submit();"><img src="/search/images/kensaku_buton.jpg" alt="検索" width="85" height="30" /></a></p></td>
+</tr>
+<!-- -->
+<!---->
+<tr>
+<td colspan="2"><p class="text_center">
+<a href="javascript:history.back()"><img src="/search/images/buck_buton.jpg" alt="前の画面に戻る" width="136" height="30"></a>　<a href="javascript:if(checkForm(document.forms['frmList']))document.forms['frmList'].submit();"><img src="/search/images/all_repeat.jpg" alt="再検索" width="85" height="30"></a>
+</p></td>
+</tr>
+<!-- -->
+</tbody></table>
+<!--検索条件 end-->
+
+</form>
+				<!-- 動的コンテンツ ここまで -->
+
+				<!--ページトップへ start-->
+				<div class="page_top">
+				<p><a href="#">▲ ページトップへ</a></p>
+				</div><!--ページトップへ end-->
+			</div><!--コンテンツend-->
+		</div><!--all_cont end-->
+
+<!--all_cont start-->
+<div class="all_cont top_bt">
+<!--フッター start-->
+<div id="foot">
+     <ul><li><a href="http://www.fudousan.or.jp/">トップ </a>｜ </li>
+     <li><a href="/top/buy.html">買うトップ</a> ｜ </li>
+     <li><a href="/top/rent.html">借りるトップ</a> ｜ </li>
+     <li><a href="/top/sale.html">売るトップ</a> ｜ </li>
+     <li><a href="/top/lease.html">貸すトップ</a> ｜ </li>
+     <li>マイリスト（<a href="/system/?act=v&amp;type=19">買う</a>・<a href="/system/?act=v&amp;type=39">借りる</a>） ｜ </li>
+     <li><a href="/topics/index.html">不動産トピックス</a> ｜ </li>
+     <li><a href="/check/index.html">不動産力チェック</a> ｜ </li>
+     <li><a href="/keywords/index.html">話題の不動産キーワード</a></li>
+     </ul>
+	 <ul><li><a href="/others/aboutus.html">不動産ジャパンについて</a> ｜ </li>
+	 <li><a href="/others/link.html">リンクについて</a> ｜ </li>
+	 <li><a href="/others/sitemap.html">サイトマップ</a> ｜ </li>
+	 <li><a href="/others/kiyaku.html">ご利用規約</a> ｜ </li>
+	 <li><a href="/others/privacy.html">個人情報保護指針</a> ｜ </li>
+	 <li><a href="/inquiry/index.html">物件情報以外のお問合せ</a></li>
+	 </ul>
+	 <ul>
+	   <li><a href="/mlit/index.html">国土交通省最新の動き</a> ｜ </li>
+	   <li><a href="/company/index.html">不動産会社の皆様へ</a> ｜ </li>
+	 <li><a href="http://www.kindaika.jp" target="_blank">（公財）不動産流通近代化センター</a> ｜ </li>
+	 <li><a href="/association/index.html">参加団体</a></li>
+	 </ul>
+<address>Copyright 2015 THE REAL ESTATE TRANSACTION MODERNIZATION CENTER FOUNDATION All Rights Reserved.</address>
+</div>
+<!--フッター end-->
+</div>
+<!--all_cont end-->
+
+
+
+</div>
